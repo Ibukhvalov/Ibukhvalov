@@ -113,7 +113,7 @@ Handles user state, file processing, and asynchronous video transformation.
 - Email: vivanv345672176@mail.ru
 - GitHub: [Ibukhvalov](https://github.com/Ibukhvalov)  
 - Telegram: `@bukhva`  
-- Resume: [View PDF]()
+- Resume: [View PDF](https://disk.yandex.ru/i/DJtwh2xM3VnUWA)
 
 ---
 
